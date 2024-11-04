@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PixelPineDev
+- :wave: Hi, I’m @PixelPineDev
 
  I am an IOS developer. I'm actively learning swift to become an IOS developer. 
  This journey started right after I graduated from Software Engineering university. 
