@@ -1,15 +1,10 @@
 - :wave: Hi, I’m @PixelPineDev
 
- I am an IOS developer. I'm actively learning swift to become an IOS developer. 
- This journey started right after I graduated from Software Engineering university. 
- I have experiences with web development with HTML, CSS, Bootstrap, and vanilla Javascript. 
- I gained broad experiences using various software tools and other programming languages during my academic journey in school.
+ Hi there 👋
 
-IOS development stole my focus completely since I tried to build my first simple IOS app. 
-In my personal opinion, Apple spends huge amounts of making amazing, polished software and I wanted to be part of that. 
-I love a really nice designs, good user experiences, and great applications functionality. 
+I spend most of my time working on iOS development with Swift :owl:
 
-
+I wake up every day excited to learn and apply more of what iOS dev has to offer, and if there's something you think I should learn, I'd love to hear and learn from you! 💬
 
 <!---
 PixelPineDev/PixelPineDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
