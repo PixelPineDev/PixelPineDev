@@ -1,6 +1,4 @@
-- :wave: Hi, I’m @PixelPineDev
-
- Hi there 👋
+Hi  👋
 
 I spend most of my time working on iOS development with Swift :owl:
 
