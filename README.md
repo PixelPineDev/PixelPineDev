@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
-**PixelPineDev/PixelPineDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋
 
-Here are some ideas to get you started:
+I spend most of my time working on iOS development with Swift 🦉
+
+I wake up every day excited to learn and apply more of what iOS dev has to offer, and 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
