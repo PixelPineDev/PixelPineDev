@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I'm a passionate programmer with a background in software engineering.
+I'm a passionate developer with a background in software development.
 
 I spend most of my time working on iOS development with Swift 🦉
 
