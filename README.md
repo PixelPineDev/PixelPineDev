@@ -8,3 +8,5 @@ I wake up every day excited to learn and apply more of what iOS development has 
 
 I can say that I'm a highly passionate programmer with a background in software engineering.
 
+:speech_balloon: Currently, I'm learning and working on a project with SwiftUI Advanced Architecture.
+
