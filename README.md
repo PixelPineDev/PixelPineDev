@@ -1,6 +1,6 @@
 
-![](cartoon-629.gif)
-
+![](![cartoon-629](https://github.com/user-attachments/assets/f1ac4913-8bc7-4b62-8923-018caa47cca5)
+)
 
 ## Hi 👋
 
